@@ -1,4 +1,4 @@
-# 🌐 Castaway
+# 🌐 Createx
 
 A **fully responsive website template** built with **HTML, SCSS, and JavaScript**.
 This project demonstrates adaptive layouts, smooth interactions, and clean, maintainable code. Perfect as a foundation for modern web projects.
@@ -27,4 +27,5 @@ This project demonstrates adaptive layouts, smooth interactions, and clean, main
 ## 👨‍💻 Author
 
 Developed by [Doritos337](https://github.com/Doritos337)
+
 
