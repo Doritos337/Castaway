@@ -1,9 +1,9 @@
-# 🌐 Createx
+# 🌐 Castaway
 
 A **fully responsive website template** built with **HTML, SCSS, and JavaScript**.
 This project demonstrates adaptive layouts, smooth interactions, and clean, maintainable code. Perfect as a foundation for modern web projects.
 
-🔗 [Live Demo](https://webcreatex.netlify.app/)
+🔗 [Live Demo](https://graceful-castaway-fe02e2.netlify.app/)
 ---
 
 ## ✨ Features
@@ -27,5 +27,6 @@ This project demonstrates adaptive layouts, smooth interactions, and clean, main
 ## 👨‍💻 Author
 
 Developed by [Doritos337](https://github.com/Doritos337)
+
 
 
